@@ -24,7 +24,7 @@ env:
 
 jobs:
   call-workflow-1:
-    uses: smilianskyi/test1/blob/main/.github/workflows/python-app.yml@071904c92f9ea37a52ad7e526601bf7e17628afd
+    uses: smilianskyi/test1/.github/workflows/python-app.yml@071904c92f9ea37a52ad7e526601bf7e17628afd
     permissions:
       contents: read
   
